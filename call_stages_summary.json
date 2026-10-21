@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "T001",
+    "company": "Kalpana Chem Supplies (fictional)",
+    "role": "Technical Services Director",
+    "caller": "Priya, Meridian Growth Partners (fictional)",
+    "outcome": "next_step_agreed",
+    "duration": 75,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T002",
+    "company": "Orbit Automation (fictional)",
+    "role": "CEO and CTO",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 54,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T003",
+    "company": "Novara Foods India (fictional)",
+    "role": "Associate Director",
+    "caller": "Priya, Meridian Growth Partners (fictional)",
+    "outcome": "do_not_call",
+    "duration": 34,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T004",
+    "company": "Aerolink Signal Systems (fictional)",
+    "role": "listed as Director, Strategic Marketing",
+    "caller": "Meera, Meridian Growth Partners (fictional)",
+    "outcome": "wrong_person",
+    "duration": 71,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T005",
+    "company": "Suvarna Microsystems (fictional)",
+    "role": "not known",
+    "caller": "Rohit, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 36,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T006",
+    "company": "Kaveri Electric Motors (fictional)",
+    "role": "Chief Executive Officer",
+    "caller": "Anjali, Meridian Growth Partners (fictional)",
+    "outcome": "next_step_agreed",
+    "duration": 42,
+    "stage_reached": 4,
+    "stage_name": "4. Their business"
+  },
+  {
+    "id": "T007",
+    "company": "Udhav Textiles (fictional)",
+    "role": "Chief Executive Officer",
+    "caller": "Sana, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 59,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T008",
+    "company": "OneWave Digital (fictional)",
+    "role": "Founder and CEO",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "next_step_agreed",
+    "duration": 77,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T009",
+    "company": "Idris Fluidics India (fictional)",
+    "role": "Vice President, Human Resources",
+    "caller": "Rachel, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 38,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T010",
+    "company": "ChromaChem India (fictional)",
+    "role": "Director",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 81,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T011",
+    "company": "Kavach Geo Systems (fictional)",
+    "role": "Chief Executive Officer",
+    "caller": "Anjali, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 31,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T012",
+    "company": "Alloy Research Labs (fictional)",
+    "role": "Founder",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 76,
+    "stage_reached": 6,
+    "stage_name": "6. Objection"
+  },
+  {
+    "id": "T013",
+    "company": "Arunodaya Specialty Chemicals (fictional)",
+    "role": "former Independent Director",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "do_not_call",
+    "duration": 75,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T014",
+    "company": "Loram Automotive India (fictional)",
+    "role": "Director, Program Management",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 34,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T015",
+    "company": "Camber Engines India (fictional)",
+    "role": "not the person on the list",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "do_not_call",
+    "duration": 43,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T016",
+    "company": "Marudhar Motors (fictional)",
+    "role": "Vice President, Business Excellence",
+    "caller": "Rachel, Meridian Growth Partners (fictional)",
+    "outcome": "call_again",
+    "duration": 50,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T017",
+    "company": "Nexora Semiconductors India (fictional)",
+    "role": "Director",
+    "caller": "Priya, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 70,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T018",
+    "company": "Astrella Pharma India (fictional)",
+    "role": "Associate Director, Statistical Programming",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 63,
+    "stage_reached": 6,
+    "stage_name": "6. Objection"
+  },
+  {
+    "id": "T019",
+    "company": "Circuit Drive Automation (fictional)",
+    "role": "not known",
+    "caller": "Kavya, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 65,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T020",
+    "company": "Tilak Components (fictional)",
+    "role": "Co-Founder",
+    "caller": "Vidya, Meridian Growth Partners (fictional)",
+    "outcome": "do_not_call",
+    "duration": 33,
+    "stage_reached": 6,
+    "stage_name": "6. Objection"
+  },
+  {
+    "id": "T021",
+    "company": "Pure Harvest Organics (fictional)",
+    "role": "CEO and Founder",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "do_not_call",
+    "duration": 54,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T022",
+    "company": "Prestige Consumer Goods India (fictional)",
+    "role": "listed as Director",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "wrong_person",
+    "duration": 54,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T023",
+    "company": "not named on the call",
+    "role": "not known",
+    "caller": "Sana, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 33,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T024",
+    "company": "Prakash Steel Structures (fictional)",
+    "role": "Chief Executive Officer",
+    "caller": "Sana, Meridian Growth Partners (fictional)",
+    "outcome": "do_not_call",
+    "duration": 78,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T025",
+    "company": "Quanta Wireless Modules (fictional)",
+    "role": "Sales Director, India",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "wrong_person",
+    "duration": 47,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T026",
+    "company": "Sigma Technologies India (fictional)",
+    "role": "Vice President and Head, People and Organisation",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "next_step_agreed",
+    "duration": 51,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T027",
+    "company": "Bharat Exim (fictional)",
+    "role": "Director",
+    "caller": "Rohit, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 42,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T028",
+    "company": "Vinayak Distributors (fictional)",
+    "role": "listed as Director",
+    "caller": "Rohit, Meridian Growth Partners (fictional)",
+    "outcome": "wrong_person",
+    "duration": 35,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T029",
+    "company": "Broadline Semiconductors India (fictional)",
+    "role": "Technical Director",
+    "caller": "Kavya, Meridian Growth Partners (fictional)",
+    "outcome": "wrong_person",
+    "duration": 30,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T030",
+    "company": "Emrys Clinical Research India (fictional)",
+    "role": "Director",
+    "caller": "Sameer, Meridian Growth Partners (fictional)",
+    "outcome": "wrong_person",
+    "duration": 61,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T031",
+    "company": "Northern Power Distribution (fictional)",
+    "role": "not the person on the list",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "call_again",
+    "duration": 35,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T032",
+    "company": "Pinnacle Apparel (fictional)",
+    "role": "Chief Executive Officer",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "call_again",
+    "duration": 40,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T033",
+    "company": "Metro Rubber Technologies (fictional)",
+    "role": "Chief Operating Officer",
+    "caller": "Anjali, Meridian Growth Partners (fictional)",
+    "outcome": "interested",
+    "duration": 57,
+    "stage_reached": 4,
+    "stage_name": "4. Their business"
+  },
+  {
+    "id": "T034",
+    "company": "Osprey Rubber Products (fictional)",
+    "role": "Director",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "moved_company",
+    "duration": 71,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T035",
+    "company": "Elektra Motors (fictional)",
+    "role": "Chief Executive Officer",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "interested",
+    "duration": 65,
+    "stage_reached": 3,
+    "stage_name": "3. Permission"
+  },
+  {
+    "id": "T036",
+    "company": "JK Electronica (fictional)",
+    "role": "Chief Executive Officer",
+    "caller": "Manish, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 67,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T037",
+    "company": "Ashwin Automation (fictional)",
+    "role": "Chairman and Co-Founder",
+    "caller": "Kiran, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 59,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T038",
+    "company": "Fairline Electronics (fictional)",
+    "role": "Director, Projects (former)",
+    "caller": "Sameer, Meridian Growth Partners (fictional)",
+    "outcome": "moved_company",
+    "duration": 72,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T039",
+    "company": "Omnicare Systems India (fictional)",
+    "role": "Director of Software Engineering (former)",
+    "caller": "Priya, Meridian Growth Partners (fictional)",
+    "outcome": "moved_company",
+    "duration": 45,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T040",
+    "company": "Lifeline Medical India (fictional)",
+    "role": "Director, Learning Platforms (former)",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "moved_company",
+    "duration": 47,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T041",
+    "company": "Panorama Electronics India (fictional)",
+    "role": "Associate Director",
+    "caller": "Sameer, Meridian Growth Partners (fictional)",
+    "outcome": "do_not_call",
+    "duration": 108,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T042",
+    "company": "Spectrum Tools (fictional)",
+    "role": "Owner",
+    "caller": "Pallavi, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 90,
+    "stage_reached": 3,
+    "stage_name": "3. Permission"
+  },
+  {
+    "id": "T043",
+    "company": "Sunrise Dye-Chem (fictional)",
+    "role": "Sales Director",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 114,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T044",
+    "company": "Trident Navigation India (fictional)",
+    "role": "Director, Business Development, Defence and Government",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 91,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T045",
+    "company": "Rathi Motors (fictional)",
+    "role": "Owner (former dealership)",
+    "caller": "Manish, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 131,
+    "stage_reached": 3,
+    "stage_name": "3. Permission"
+  },
+  {
+    "id": "T046",
+    "company": "Kalyx Enterprises (fictional)",
+    "role": "Director",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 162,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T047",
+    "company": "Sangeet Textiles (fictional)",
+    "role": "Chief Operations Officer",
+    "caller": "Anjali, Meridian Growth Partners (fictional)",
+    "outcome": "interested",
+    "duration": 90,
+    "stage_reached": 3,
+    "stage_name": "3. Permission"
+  },
+  {
+    "id": "T048",
+    "company": "Averline Labels (fictional)",
+    "role": "Senior Director, Marketing, South Asia",
+    "caller": "Sameer, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 132,
+    "stage_reached": 3,
+    "stage_name": "3. Permission"
+  },
+  {
+    "id": "T049",
+    "company": "Marudhar Motors (fictional)",
+    "role": "Senior Vice President, Sustainability",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "do_not_call",
+    "duration": 90,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T050",
+    "company": "Annapurna Kitchen Equipment (fictional)",
+    "role": "Director",
+    "caller": "Sana, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 118,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T051",
+    "company": "Studio Arka Design (fictional)",
+    "role": "Co-Founder and Managing Partner",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 185,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T052",
+    "company": "Greenmile Mobility (fictional)",
+    "role": "Chief Executive Officer and Co-Founder",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 114,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T053",
+    "company": "Kessler Endoscopy India (fictional)",
+    "role": "Director",
+    "caller": "Sameer, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 94,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T054",
+    "company": "Dorabji Dairy Foods (fictional)",
+    "role": "Director",
+    "caller": "Sameer, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 114,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T055",
+    "company": "Conquer Engineering (fictional)",
+    "role": "Director",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 93,
+    "stage_reached": 4,
+    "stage_name": "4. Their business"
+  },
+  {
+    "id": "T056",
+    "company": "Gyan AI (fictional)",
+    "role": "Co-founder",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 90,
+    "stage_reached": 3,
+    "stage_name": "3. Permission"
+  },
+  {
+    "id": "T057",
+    "company": "KrishiWheels (fictional)",
+    "role": "Founder",
+    "caller": "Sana, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 224,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T058",
+    "company": "Tektra Instruments India (fictional)",
+    "role": "Senior Director, Finance",
+    "caller": "Rohit, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 162,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T059",
+    "company": "Celera Flow Technology (fictional)",
+    "role": "Regional Director, Asia Pacific (former)",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "moved_company",
+    "duration": 97,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T060",
+    "company": "Nexus Systems (fictional)",
+    "role": "Founder and CEO",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "next_step_agreed",
+    "duration": 167,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T061",
+    "company": "Octet Apparel (fictional)",
+    "role": "Retail Director",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 115,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T062",
+    "company": "Pankaj Overseas (fictional)",
+    "role": "CEO",
+    "caller": "Rachel, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 154,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T063",
+    "company": "Mode Apparel Consulting (fictional)",
+    "role": "Managing Director",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 135,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T064",
+    "company": "Nav Jyoti Chemicals (fictional)",
+    "role": "Chief Executive Officer",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 110,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T065",
+    "company": "Fresh Cuts Foods (fictional)",
+    "role": "Associate Director, Operations",
+    "caller": "Meera, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 90,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T066",
+    "company": "Rajshree Plastwood (fictional)",
+    "role": "listed as Chief Executive Officer (left eight years ago)",
+    "caller": "Manish, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 91,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T067",
+    "company": "Pavitra Waters (fictional)",
+    "role": "Director, South India",
+    "caller": "Priya, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 90,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T068",
+    "company": "listed as Ingram Industrial India (fictional)",
+    "role": "not the person on the list; a service desk at a different company",
+    "caller": "Meera, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 100,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T069",
+    "company": "Ace Digital Services (fictional)",
+    "role": "Associate Director, Biostatistics",
+    "caller": "Priya, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 94,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T070",
+    "company": "Swara Polymers (fictional)",
+    "role": "office staff; the Director sits in another city",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "wrong_person",
+    "duration": 103,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T071",
+    "company": "Jubilee Ingredients (fictional)",
+    "role": "Associate Director, Nutrition Business",
+    "caller": "Priya, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 107,
+    "stage_reached": 6,
+    "stage_name": "6. Objection"
+  },
+  {
+    "id": "T072",
+    "company": "TechnoFit Sportswear (fictional)",
+    "role": "Co-Founder and Director",
+    "caller": "Anjali, Meridian Growth Partners (fictional)",
+    "outcome": "next_step_agreed",
+    "duration": 107,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T073",
+    "company": "MediaPlus Group (fictional)",
+    "role": "Founder and CEO",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 98,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T074",
+    "company": "Accordia Systems (fictional)",
+    "role": "Founder Director",
+    "caller": "Rachel, Meridian Growth Partners (fictional)",
+    "outcome": "next_step_agreed",
+    "duration": 113,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T075",
+    "company": "Intellect Semiconductors India (fictional)",
+    "role": "Director of Hardware Engineering",
+    "caller": "Meera, Meridian Growth Partners (fictional)",
+    "outcome": "do_not_call",
+    "duration": 92,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T076",
+    "company": "Cura Surgical International (fictional)",
+    "role": "Vice President, APAC and International Accounts",
+    "caller": "Divya, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 147,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T077",
+    "company": "RK Cables (fictional)",
+    "role": "Assistant Vice President",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "call_again",
+    "duration": 104,
+    "stage_reached": 3,
+    "stage_name": "3. Permission"
+  },
+  {
+    "id": "T078",
+    "company": "Genera Healthcare (fictional)",
+    "role": "Marketing Director",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "interested",
+    "duration": 145,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T079",
+    "company": "Evalora Research (fictional)",
+    "role": "Associate Director",
+    "caller": "Sameer, Meridian Growth Partners (fictional)",
+    "outcome": "wrong_person",
+    "duration": 109,
+    "stage_reached": 1,
+    "stage_name": "1. Opening"
+  },
+  {
+    "id": "T080",
+    "company": "Namaha Industries (fictional)",
+    "role": "Chief Executive Officer",
+    "caller": "Manish, Meridian Growth Partners (fictional)",
+    "outcome": "interested",
+    "duration": 157,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T081",
+    "company": "Cyra Pharma (fictional)",
+    "role": "Chief Executive Officer",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "interested",
+    "duration": 444,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T082",
+    "company": "Kiran Lighting (fictional)",
+    "role": "Owner",
+    "caller": "Kavya, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 425,
+    "stage_reached": 4,
+    "stage_name": "4. Their business"
+  },
+  {
+    "id": "T083",
+    "company": "Vyom Technologies (fictional)",
+    "role": "Director of Software",
+    "caller": "Meera, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 290,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T084",
+    "company": "Vijay Writing Instruments (fictional)",
+    "role": "Managing Director",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "do_not_call",
+    "duration": 296,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T085",
+    "company": "Terra Equipment India (fictional)",
+    "role": "Director, Product and Training",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "next_step_agreed",
+    "duration": 255,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T086",
+    "company": "Swadesh Home (fictional)",
+    "role": "Chief Executive Officer",
+    "caller": "Anjali, Meridian Growth Partners (fictional)",
+    "outcome": "next_step_agreed",
+    "duration": 242,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T087",
+    "company": "Bhagwati Automotive (fictional)",
+    "role": "listed as Chief Executive Officer; says he is not a decision maker",
+    "caller": "Sana, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 281,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T088",
+    "company": "Hanover Technologies India (fictional)",
+    "role": "Director of Engineering",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 389,
+    "stage_reached": 6,
+    "stage_name": "6. Objection"
+  },
+  {
+    "id": "T089",
+    "company": "NextGen Robotics (fictional)",
+    "role": "Owner",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 244,
+    "stage_reached": 4,
+    "stage_name": "4. Their business"
+  },
+  {
+    "id": "T090",
+    "company": "Radiant Hydraulics (fictional)",
+    "role": "Director",
+    "caller": "Sana, Meridian Growth Partners (fictional)",
+    "outcome": "interested",
+    "duration": 242,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T091",
+    "company": "Crestline Electronics (fictional)",
+    "role": "Director, Partner Engineering",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 242,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T092",
+    "company": "Agrovel Industries (fictional)",
+    "role": "Joint Managing Director",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 251,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T093",
+    "company": "Sarvodaya Garments (fictional)",
+    "role": "Chief Operating Officer",
+    "caller": "Neha, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 659,
+    "stage_reached": 5,
+    "stage_name": "5. Their need, in their words"
+  },
+  {
+    "id": "T094",
+    "company": "Suryodaya Manufacturing (fictional)",
+    "role": "Managing Director",
+    "caller": "Pallavi, Meridian Growth Partners (fictional)",
+    "outcome": "not_logged",
+    "duration": 339,
+    "stage_reached": 4,
+    "stage_name": "4. Their business"
+  },
+  {
+    "id": "T095",
+    "company": "Dhanchand Chemicals (fictional)",
+    "role": "Director",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "next_step_agreed",
+    "duration": 282,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T096",
+    "company": "Kavach Geo Systems (fictional)",
+    "role": "Chief Executive Officer",
+    "caller": "Anjali, Meridian Growth Partners (fictional)",
+    "outcome": "next_step_agreed",
+    "duration": 687,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T097",
+    "company": "Novara Foods India (fictional)",
+    "role": "Senior Director, Supply Chain IT",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "not_interested",
+    "duration": 286,
+    "stage_reached": 2,
+    "stage_name": "2. Purpose"
+  },
+  {
+    "id": "T098",
+    "company": "Stellar Motors India (fictional)",
+    "role": "Director, Software Quality Engineering",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "follow_up",
+    "duration": 293,
+    "stage_reached": 3,
+    "stage_name": "3. Permission"
+  },
+  {
+    "id": "T099",
+    "company": "Visionex Technologies (fictional)",
+    "role": "listed as Director, Software Engineering; says he is in insurance sales",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 254,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  },
+  {
+    "id": "T100",
+    "company": "Vocis Life Sciences (fictional)",
+    "role": "Director, Safety Data Management",
+    "caller": "Arjun, Meridian Growth Partners (fictional)",
+    "outcome": "agreed_to_receive_report",
+    "duration": 280,
+    "stage_reached": 7,
+    "stage_name": "7. Next step"
+  }
+]
