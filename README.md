@@ -8,8 +8,8 @@
 
 - **GitHub Repository**: `https://github.com/Renusridarla/deepthought`
 - **Live Web Application (Vercel)**: `https://deepthought-tau.vercel.app`
-- **Live Backend API (Render)**: `https://YOUR-BACKEND.onrender.com`
-- **Render Health Endpoint**: `https://YOUR-BACKEND.onrender.com/health`
+- **Live Backend API (Render)**: `https://deepthought-01cl.onrender.com`
+- **Render Health Endpoint**: `https://deepthought-01cl.onrender.com/health`
   - Answers with `{ "status": "ok", "service": "meridian-call-guide-backend", ... }` when the backend is up. (Render free-tier instances sleep when idle and wake up on first ping).
 
 ---
