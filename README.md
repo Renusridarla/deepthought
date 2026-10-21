@@ -6,6 +6,7 @@
 
 ## 🔗 Live Deployments & Endpoints
 
+- **GitHub Repository**: `https://github.com/Renusridarla/deepthought`
 - **Live Web Application (Vercel)**: `https://YOUR-APP.vercel.app` *(or custom domain)*
 - **Live Backend API (Render)**: `https://YOUR-BACKEND.onrender.com`
 - **Render Health Endpoint**: `https://YOUR-BACKEND.onrender.com/health`
