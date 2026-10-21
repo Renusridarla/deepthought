@@ -7,6 +7,7 @@ import { EndCallModal } from "./components/EndCallModal";
 import { CallDetailModal } from "./components/CallDetailModal";
 import { SamplePickerModal } from "./components/SamplePickerModal";
 import { NewCallModal } from "./components/NewCallModal";
+import { WebcamPIP } from "./components/WebcamPIP";
 import { STAGES } from "./data/stagesData";
 import { api } from "./services/api";
 
@@ -47,6 +48,7 @@ export function App() {
   const [isEndCallModalOpen, setIsEndCallModalOpen] = useState(false);
   const [isSamplePickerOpen, setIsSamplePickerOpen] = useState(false);
   const [isNewCallModalOpen, setIsNewCallModalOpen] = useState(false);
+  const [isCameraOpen, setIsCameraOpen] = useState(false);
   const [isSaving, setIsSaving] = useState(false);
   const [backendStatus, setBackendStatus] = useState("checking");
 
@@ -299,6 +301,8 @@ export function App() {
         activeTab={activeTab}
         setActiveTab={setActiveTab}
         backendStatus={backendStatus}
+        isCameraOpen={isCameraOpen}
+        onToggleCamera={() => setIsCameraOpen((v) => !v)}
       />
 
       {/* 2. Main Content Views */}
@@ -363,6 +367,12 @@ export function App() {
         isOpen={isNewCallModalOpen}
         onClose={() => setIsNewCallModalOpen(false)}
         onStartCall={handleStartNewCall}
+      />
+
+      {/* Floating Webcam PIP for 6-minute camera video recording */}
+      <WebcamPIP
+        isOpen={isCameraOpen}
+        onClose={() => setIsCameraOpen(false)}
       />
     </div>
   );

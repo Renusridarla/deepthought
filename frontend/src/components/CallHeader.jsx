@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Phone, Clock, FileText, PlusCircle, Activity, Sparkles, Building2, User } from "lucide-react";
+import { Phone, Clock, FileText, PlusCircle, Activity, Sparkles, Building2, User, Camera } from "lucide-react";
 
 export function CallHeader({
   callState,
@@ -8,7 +8,9 @@ export function CallHeader({
   onEndCall,
   activeTab,
   setActiveTab,
-  backendStatus
+  backendStatus,
+  isCameraOpen,
+  onToggleCamera
 }) {
   const [seconds, setSeconds] = useState(0);
 
@@ -123,6 +125,21 @@ export function CallHeader({
 
           {/* Quick Action Buttons */}
           <div className="flex items-center gap-2">
+            {/* In-app Camera PIP Toggle for Video Recording */}
+            <button
+              onClick={onToggleCamera}
+              className={`text-xs border px-3 py-1.5 rounded-lg flex items-center gap-1.5 transition-all shadow-sm ${
+                isCameraOpen
+                  ? "bg-blue-600 border-blue-400 text-white font-semibold ring-2 ring-blue-500/50"
+                  : "bg-slate-800 hover:bg-slate-700 text-slate-200 border-slate-700"
+              }`}
+              title="Toggle in-browser webcam PIP for recording your video walkthrough"
+            >
+              <Camera className={`w-3.5 h-3.5 ${isCameraOpen ? "text-white" : "text-emerald-400"}`} />
+              <span className="hidden sm:inline">{isCameraOpen ? "Camera On" : "Turn Camera On"}</span>
+              <span className="sm:hidden">Camera</span>
+            </button>
+
             <button
               onClick={onOpenSamplePicker}
               className="text-xs bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 px-3 py-1.5 rounded-lg flex items-center gap-1.5 transition-colors shadow-sm"
